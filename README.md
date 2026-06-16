@@ -8,7 +8,7 @@ This is a 5-day course : Over five days, a global community of learners engaged 
 
 | Day | Topic | Tools used | Skills | Status | 
 |-----|-------|------------|--------|--------|
-| Day 00 | Introduction and Set-up | Tools set-up and Configurations | Kaggle Platform,<br>Phone verification,<br>Set-up Google AI Studio and API Key Generation,<br>Antigravity 2.0 installation,<br>Antigravity IDE setup,<br>Antigravity CLI configuration,<br>Kaggle Discord setup | Complete ✅ |
+| Day 00 | Introduction, and<br>Set-up | Tools set-up, and<br>Configurations | Kaggle Platform,<br>Phone verification,<br>Set-up Google AI Studio and API Key Generation,<br>Antigravity 2.0 installation,<br>Antigravity IDE setup,<br>Antigravity CLI configuration,<br>Kaggle Discord setup | Complete ✅ |
 | Day 01 | Introduction to Agents & Vibe Coding | | | |
 | Day 02 | Agent Tools & Interoperability  | | | |
 | Day 03 | Agent Skills Build personalized agents with long-term memory and state | | | |
