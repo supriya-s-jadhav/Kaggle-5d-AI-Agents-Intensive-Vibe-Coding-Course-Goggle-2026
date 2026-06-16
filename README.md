@@ -4,7 +4,7 @@ This repository contains my learning notes, assignment submissions, capstone pro
 
 This is a 5-day course : Over five days, a global community of learners engaged in expert-led sessions, technical whitepapers and notebooks and capstone projects, and built a deeper understanding of how AI agents are designed, evaluated and deployed.
 
-# Submission Status
+# Daily Progress
 
 | Day | Topic | Tools used | Skills | Status | 
 |-----|-------|------------|--------|--------|
@@ -16,6 +16,30 @@ This is a 5-day course : Over five days, a global community of learners engaged 
 | Day 05 | Spec-Driven Production Grade Development in the Age of Vibe Coding | | | |
 | Capstone Project | <TBD> | | | |
 
+# Repository Structure
+
+```
+Kaggle-5d-AI-Agents-Intensive-Vibe-Coding-Course-Goggle-2026
+|--- README.MD
+|--- ABOUT_COURSE.md
+|--- Day01/
+|     |--- README.md
+|     |--- Day_1_Whitepaper.pdf
+|--- Day02
+|     |--- README.md
+|--- Day03
+|     |--- README.md
+|--- Day04
+|     |--- README.md
+|--- Day05
+|     |--- README.md
+|--- Capstone_Project
+|     |--- README.md
+|--- Notes
+|     |--- README.md
+|--- .gitignore
+
+```
 
 # Topics Covered
 
@@ -29,3 +53,7 @@ The course and related exercises may involve:
 - Google AI tools
 - Cloud-based deployment workflows
 - Evaluation, constraints, and safety guardrails
+
+# References:
+
+01. [Kaggle Course link](https://www.kaggle.com/competitions/5-day-ai-agents-intensive-vibecoding-course-with-google)
